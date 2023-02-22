@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="http://webcdev.local/_lib/script/js_save.php?path=wp-content/plugins/ajax-search-lite/_phpstorm/file_watchers/config.cfg" />
+      <option name="checkSyntaxErrors" value="false" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="ASL on script save Local" />
+      <option name="output" value="C:\samba\dev\webcdev.local\wp-content\plugins\ajax-search-lite\js" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="curl" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="ASL" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+  </component>
+</project>
